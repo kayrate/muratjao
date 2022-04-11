@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muratjao
+- 👋 Hi, I’m @wmurat
 - 👀 I’m interested in PHP 
 - 📫 Send mail -muratjao@gmail.com
 
